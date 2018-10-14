@@ -63,7 +63,7 @@ p.offset {
 }
 
 .frontiere {
-	border: 4px dashed darkviolet;
+	border: 4px dotted darkviolet;
 	padding: 4em 3em 2em 1em
 	background-color: yellow;
 }
