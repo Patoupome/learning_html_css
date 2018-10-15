@@ -58,16 +58,11 @@ p.offset {
 	border: 4px dashed darkviolet;
 	padding: 4em 3em 2em 1em;
 }
-* {
-	background-color: purple;
-}
 
-.frontiere {
-	border: 4px dotted darkviolet;
-	padding: 4em 3em 2em 1em
-	background-color: yellow;
-}
 
+h4, p.mid {
+	text-align: center;
+}
 
 
 
